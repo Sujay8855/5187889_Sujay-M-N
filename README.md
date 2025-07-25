@@ -1,2 +1,2 @@
 # 5187889_Sujay-M-N
-![photo](SDLC\sujay.jpg.jpg)
+![photo](SDLC\sujay.jpg)
